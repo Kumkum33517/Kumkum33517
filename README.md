@@ -28,7 +28,7 @@ An AI-based system for identifying unusual patterns and potential risks in publi
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & ToolsGitHub Stats
 
 #### 💻 Programming Languages
 
@@ -126,19 +126,6 @@ Flask • Django • Tailwind CSS
 - 🥇 **1st Place — Hack4Delhi**
 - 🏅 **2× Hackathon Finalist**
 - 👩‍💻 **Hackathon Team Leader — 10+ Hackathons**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumkum33517&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumkum33517&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumkum33517&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
