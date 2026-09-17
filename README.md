@@ -124,7 +124,6 @@ Flask • Django • Tailwind CSS
 ### 🏆 Achievements
 
 - 🥇 **1st Place — Hack4Delhi**
-- 🥇 **1st Position — India Innovates / HN India AI Track**
 - 🏅 **2× Hackathon Finalist**
 - 👩‍💻 **Hackathon Team Leader — 10+ Hackathons**
 
