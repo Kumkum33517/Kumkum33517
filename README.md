@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumkum Singh</h1>
 
-<h3 align="center">AI/ML • Computer Vision • NLP • Generative AI • Building Practical Solutions</h3>
+<h3 align="center">AI/ML • Computer Vision • NLP • Building Practical Solutions</h3>
 
 ---
 
